@@ -1,0 +1,11 @@
+brand,model,year,body,price_usd,car_mileage,fuel,power,transmission
+volkswagen,caddy,2017,minivan,11900,225,diesel,2.0,manual
+volkswagen,golf,2004,hatchback,5950,165,petrol,1.6,manual
+volkswagen,golf,2008,hatchback,7490,167,petrol,1.4,manual
+bmw,320,2008,sedan,8350,213,petrol,2.0,manual
+ford,focus,2010,hatchback,6750,173,diesel,1.6,manual
+volkswagen,passat,2011,station wagon,11400,242,diesel,2.0,automatic
+volkswagen,passat,2014,sedan,11900,121,gas,1.8,automatic
+renault,megane,2011,hatchback,8599,147,diesel,1.5,automatic
+nissan,qashqai,2008,SUV/crossover,9000,248,diesel,1.5,manual
+audi,a6,2008,sedan,11599,194,diesel,2.7,automatic
